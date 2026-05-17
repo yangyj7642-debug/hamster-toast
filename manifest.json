@@ -7,9 +7,8 @@
   "theme_color": "#1a1a3a",
   "icons": [
     {
-      "src": "/hamster-toast/favicon.ico",
-      "sizes": "64x64",
-      "type": "image/x-icon"
+      "src": "https://via.placeholder.com/512",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
-}
